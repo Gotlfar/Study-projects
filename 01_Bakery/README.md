@@ -14,7 +14,6 @@
 ### Стек
 - Excel
 - Figma
-
 <br><a name="T2"></a> 
 ## Решение задачи
 [Файл Excel](https://github.com/Gotlfar/Study-projects/blob/main/01_Bakery/Булат_Мигранов_Проект_1.xlsx)
