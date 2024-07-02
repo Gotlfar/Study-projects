@@ -43,4 +43,5 @@
 - Agent’s performance quadrant, `Scatter Chart`
 
 | X Axis | Y axis | Legend |
+|-------------|------------|----------|
 | Сумма принятых звонков | Длителность разговора | Менеджер |
