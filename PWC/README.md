@@ -109,4 +109,4 @@
 - Количество технических тикетов, открытых ушедшими клиентами.
 
 #### Решение задачи: 
-[Файл с дашбордом]([https://github.com/Gotlfar/Study-projects/blob/main/PWC/PWC_DB1.pbix](https://github.com/Gotlfar/Study-projects/blob/b584aaa380ab1c8418d5a5597ba91d8c18948917/PWC/PWC_DB2.pbix))
+[Файл с дашбордом](https://github.com/Gotlfar/Study-projects/blob/b584aaa380ab1c8418d5a5597ba91d8c18948917/PWC/PWC_DB2.pbix)
