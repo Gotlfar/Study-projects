@@ -30,7 +30,7 @@
 
 |#|Название проекта|Описание проекта|Статус|Стек|
 |-|----------|----------|----------|----------|
-|1|[Анализ продаж булочной]([https://github.com/aksyutenko/data_analyst_portfolio/tree/main/telecom](https://github.com/Gotlfar/Study-projects/tree/main/01_Bakery))|Провести анализ продаж в булочной, включая все этапы: сбор, преобразование, анализ и визуализация данных. А затем и предоставить выводы руководству.|завершен|Excel</br>Figma</br>|
+|1|[Анализ продаж булочной](https://github.com/Gotlfar/Study-projects/tree/main/01_Bakery)|Провести анализ продаж в булочной, включая все этапы: сбор, преобразование, анализ и визуализация данных. А затем и предоставить выводы руководству.|завершен|Excel</br>Figma</br>|
 |2|[Виртуальная практика от PWC](https://github.com/aksyutenko/data_analyst_portfolio/tree/main/AB_test)|Виртуальная практика от сайта www.theforage.com по Power BI|завершен|Power BI|
 
 ## Сертификаты
