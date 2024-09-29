@@ -30,8 +30,8 @@
 
 |#|Название проекта|Описание проекта|Статус|Стек|
 |-|----------|----------|----------|----------|
-|1|[Анализ продаж булочной](https://github.com/Gotlfar/Study-projects/tree/main/01_Bakery)|Проверить, выросла ли урожайность кофейных деревьев за последний год.|завершен||Excel</br>Figma</br>|
-|2|[Анализ урожайности кофе](https://github.com/Gotlfar/Study-projects/blob/main/02_Coffee/README.md)|Виртуальная практика от сайта www.theforage.com по Power BI|завершен|Pandas</br>Numpy</br>Scipy</br>Matplotlib</br>Figma</br>|
+|1|[Анализ продаж булочной](https://github.com/Gotlfar/Study-projects/tree/main/01_Bakery)|Провести анализ продаж в булочной, включая все этапы: сбор, преобразование, анализ и визуализация данных. А затем и предоставить выводы руководству.|завершен|Excel</br>Figma</br>|
+|2|[Анализ урожайности кофе](https://github.com/Gotlfar/Study-projects/blob/main/02_Coffee/README.md)|Проверить, выросла ли урожайность кофейных деревьев за последний год.|завершен|Pandas</br>Numpy</br>Scipy</br>Matplotlib</br>Figma</br>|
 
 ## Сертификаты
 - [Аналитик данных](https://disk.yandex.ru/). Bang Bang education, 2024
