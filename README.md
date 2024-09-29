@@ -4,7 +4,7 @@
 ## Содержание
 - [О себе](#о-себе)
 - [Пет проекты](#пет-проекты)
-- [Bang Bang education](#яндекс-практикум)
+- [Bang Bang education](#BangBang-education)
 - [Сертификаты](#сертификаты)
 - [Контакты](#контакты)
   
@@ -24,7 +24,7 @@
 |1|[Виртуальная практика от PWC](https://github.com/aksyutenko/data_analyst_portfolio/tree/main/AB_test)|Виртуальная практика от сайта www.theforage.com по Power BI|завершен|Power BI|
 
 
-## Bang Bang education
+## BangBang-education
 
 Проекты выполненные во время обучения на курсе «Аналитик данных»
 
