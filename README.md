@@ -21,7 +21,7 @@
 
 |#|Название проекта|Описание проекта|Статус|Стек|
 |-|----------|----------|----------|----------|
-|1|[Виртуальная практика от PWC](https://github.com/aksyutenko/data_analyst_portfolio/tree/main/AB_test)|Виртуальная практика от сайта www.theforage.com по Power BI|завершен|Power BI|
+|1|[Виртуальная практика от PWC](https://github.com/Gotlfar/Study-projects/tree/main/PWC)|Виртуальная практика от сайта www.theforage.com по Power BI|завершен|Power BI|
 
 
 ## BangBang-education
